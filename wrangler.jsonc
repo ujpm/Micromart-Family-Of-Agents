@@ -1,0 +1,7 @@
+{
+  "name": "microsmart-portfolio",
+  "compatibility_date": "2024-11-30",
+  "assets": {
+    "directory": "./dist"
+  }
+}
