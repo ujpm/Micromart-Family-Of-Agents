@@ -7,13 +7,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        'medical-blue': '#0ea5e9',
-        'clinical-white': '#ffffff',
-        'slate-gray': '#64748b', // Standard slate-500/600 approx
-      },
-      fontFamily: {
-        sans: ['Inter', 'sans-serif'],
-      },
+        medical: {
+          50: '#f0f9ff',
+          100: '#e0f2fe',
+          500: '#0ea5e9', // Primary Blue
+          600: '#0284c7',
+          900: '#0c4a6e',
+        }
+      }
     },
   },
   plugins: [],
